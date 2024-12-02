@@ -1,0 +1,10 @@
+Solo|10
+Jogja|50
+Surabaya|300
+Jakarta|500
+Bandung|450
+Semarang|120
+Malang|250
+Denpasar|620
+Medan|1500
+Makassar|1500

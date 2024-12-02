@@ -1,0 +1,5 @@
+1|ihsan|ihsanrestuadi|ihsanlearn@gmail.com|solo|1000000
+2|huda|hudaaaaa|hudaaa@gmail.com|solo|300000
+3|annisa|annisaeka|annisaeka@gmail.com|jogja|200000000
+4|farel|farelngentod|farel@gmail.com|krgyr|1000
+5|nopal|nopalpsht|nopalpsht@gmail.com|cepu|500000
