@@ -3,38 +3,58 @@
 #include <string.h>
 #include <stdbool.h>
 #include "utils.h"
+#include "seller.h"
+#include "ui.h"
+
+void myTransactions(User *userActive) {
+   // refreshTransactionStatus();
+
+   char *menu[] = {"Semua Transaksi", "Return ?", NULL};
+   printMenu(menu);
+   int userChoice = getUserChoice(2);
+
+   switch (userChoice)  {
+      case 1:
+         clearScreen();
+         displayAllTransaction(userActive);
+         break;
+      case 2:
+         returnItems(userActive);
+
+         break;
+      
+      default: 
+         break;
+   }
+}
 
 User *landingPage(Table *table) {
-   char *menu[] = {"Sign Up", "Sign In", "as Guest", NULL};
+   char *menu[] = {"Sign Up", "Sign In", "Seller", "as Guest", NULL};
    printMenu(menu);
-   int mainChoice = getUserChoice(3);
+   int mainChoice = getUserChoice(4);
 
-   if (mainChoice == 1) {
-      char *menuRole[] = {"Seller", "Buyer", NULL};
-      printMenu(menuRole);
-      int roleChoice = getUserChoice(2);
-
-      if (roleChoice == 2) {
-         inputUser(table);
-         saveTableToFile(table, USERS_FILE);
-         printf("Sign Up successful!\n");
-      } else { 
-         printf("Seller sign up menu\n");
-      }
-   } else if (mainChoice == 2) {
-      char *menuRole[] = {"Seller", "Buyer", NULL};
-      printMenu(menuRole);
-      int roleChoice = getUserChoice(2);
-
-      if (roleChoice == 2) {
-         User *user = login(table);
-         printf("Sign In successful! Welcome, %s\n", user->name);
-         return user;
-      } else {
-         printf("Seller sign in menu\n");
-      }
-   } else {
-      printf("Proceeding as Guest...\n");
+   switch (mainChoice) {
+   case 1:
+      inputUser(table);
+      saveTableToFile(table, USERS_FILE);
+      break;
+   case 2:
+      clearScreen();
+      User *user = login(table);
+      clearScreen();
+      printf("Sign In successful! Welcome, %s\n", user->name);
+      return user;
+      break;
+   case 3:
+      mainSellerPage();
+      break;
+   case 4:
+      clearScreen();
+      printf("Hello, Guest...\n");
+      break;
+   
+   default:
+      break;
    }
 
    return NULL;
@@ -50,14 +70,14 @@ Profile:
       case 1:
          clearScreen();
          viewCart((*userActive)->name);
-         goto Profile;
          break;
       case 2:
+         clearScreen(); 
          checkout(*userActive);
          break;
       case 3:
          clearScreen();
-         printf("Transaction feature is under construction.\n");
+         myTransactions(*userActive);
          break;
       case 4:
          logOut((*userActive)->name);
@@ -70,11 +90,9 @@ Profile:
 void mainMenu(User *userActive, Table *table, Product products[]) {
 Sign:
    userActive = landingPage(table);
-   clearScreen();
 
 Main:
-   printf("%s", (userActive == NULL ? "User: NULL\n" : "User: active\n"));
-   char *menu[] = {"Search Products", "Display All Products", ((userActive != NULL) ? "Add to Cart" : "Log In or Sign Up"), ((userActive != NULL) ? "Profile" : NULL), NULL};
+   char *menu[] = {"Search Products", "Display Products by Category", ((userActive != NULL) ? "Add to Cart" : "Log In or Sign Up"), ((userActive != NULL) ? "Profile" : NULL), NULL};
    printMenu(menu);
    int response = getUserChoice(4);
 
@@ -86,11 +104,11 @@ Main:
          goto Main;
          break;
       case 2:
-         // clearScreen();
-         // displayAllProducts(products, MAX_PRODUCTS);
-         // goto Main;
-         // break;
+         displayProductsByCategory();
+         goto Main;
+         break;
       case 3: {
+         clearScreen();
          if (userActive != NULL) {
             int productCount = readProductsFromFile("database/products.txt", products);
             printf("Enter Product ID to add to cart: ");
@@ -112,15 +130,17 @@ Main:
             printf("Enter quantity: ");
             int quantity = getUserChoice(selectedProduct->stock);
 
-            addToCart(userActive->name, selectedProduct->id, selectedProduct->name, selectedProduct->price, quantity);
+            removeNewline(selectedProduct->description);
+            addToCart(userActive->name, selectedProduct->id, selectedProduct->name, selectedProduct->description, selectedProduct->price, quantity, selectedProduct->weight);
+            printf("Item successfully added to cart\n");
             goto Main;
          } else {
-            clearScreen();
             goto Sign;
          }
          break;
       }
       case 4:
+         clearScreen();
          profileMenu(&userActive, products);
          goto Main;
          break;

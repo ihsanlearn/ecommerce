@@ -1,100 +1,131 @@
-1|Laptop Gaming|Elektronik|20000000|2.5|10|0|Laptop dengan performa tinggi untuk gaming dan editing.
-2|Baju Kemeja Pria|Pakaian|150000|0.3|50|0|Kemeja formal yang cocok untuk acara resmi.
-3|Beras Premium|Sembako|120000|10.0|200|0|Beras dengan kualitas terbaik untuk keluarga Anda.
-4|Meja Kerja Minimalis|Furniture|1200000|25.0|15|0|Meja kerja modern dengan desain minimalis.
-5|Buku Novel Fiksi|Buku|85000|0.5|40|0|Novel dengan cerita menarik untuk waktu luang.
-6|Lipstik Matte|Kecantikan|50000|0.1|100|0|Lipstik dengan hasil matte dan tahan lama.
-7|Boneka Teddy Bear|Mainan|75000|1.2|60|0|Boneka beruang lucu untuk hadiah spesial.
-8|Oli Motor Sintetis|Otomotif|900000|4.0|25|0|Oli berkualitas tinggi untuk performa motor maksimal.
-9|Sepatu Lari Pria|Olahraga|650000|1.5|30|0|Sepatu ringan dan nyaman untuk berlari.
-10|Smartphone Android|Elektronik|3500000|0.7|20|0|Ponsel cerdas dengan fitur lengkap dan harga terjangkau.
-11|Blender Multifungsi|Elektronik|500000|3.0|25|0|Blender untuk berbagai kebutuhan dapur.
-12|Kaos Polos Wanita|Pakaian|60000|0.2|80|0|Kaos polos sederhana untuk aktivitas sehari-hari.
-13|Gula Pasir|Sembako|15000|1.0|300|0|Gula pasir murni untuk kebutuhan dapur.
-14|Kursi Gaming|Furniture|2500000|18.0|10|0|Kursi ergonomis untuk kenyamanan bermain game.
-15|Komik Jepang|Buku|50000|0.4|50|0|Komik seru dengan cerita menarik dari Jepang.
-16|Masker Wajah|Kecantikan|25000|0.05|120|0|Masker wajah untuk perawatan kulit sehari-hari.
-17|Lego Set Anak|Mainan|300000|2.0|40|0|Lego kreatif untuk mengasah imajinasi anak.
-18|Ban Mobil Baru|Otomotif|2500000|15.0|10|0|Ban mobil berkualitas tinggi untuk keamanan berkendara.
-19|Bola Basket|Olahraga|250000|1.0|35|0|Bola basket standar untuk latihan atau bermain.
-20|Televisi LED 32 Inch|Elektronik|2500000|6.0|15|0|TV LED dengan kualitas gambar tajam dan fitur modern.
-21|Kipas Angin Listrik|Elektronik|300000|4.5|20|0|Kipas angin dengan daya tahan lama dan pengaturan kecepatan.
-22|Celana Jeans Pria|Pakaian|250000|0.7|50|0|Celana jeans pria nyaman untuk dipakai sehari-hari.
-23|Telur Ayam 1 Kg|Sembako|25000|1.2|100|0|Telur ayam segar kualitas terbaik.
-24|Lemari Pakaian Kayu|Furniture|5000000|50.0|8|0|Lemari pakaian berbahan kayu dengan desain minimalis.
-25|Ensiklopedia Anak|Buku|200000|1.2|30|0|Buku ensiklopedia untuk menambah pengetahuan anak-anak.
-26|Serum Wajah|Kecantikan|70000|0.1|100|0|Serum wajah untuk perawatan kulit yang lebih cerah.
-27|Puzzle 1000 Keping|Mainan|120000|1.8|40|0|Puzzle 1000 keping yang menantang dan menyenangkan.
-28|Spion Motor|Otomotif|150000|1.0|30|0|Spion motor berkualitas dengan desain modern.
-29|Rak Sepatu|Furniture|300000|8.0|20|0|Rak sepatu untuk menyimpan sepatu dengan rapi.
-30|Raket Badminton|Olahraga|450000|0.5|25|0|Raket badminton ringan dan kuat untuk pertandingan.
-31|Komputer All-in-One|Elektronik|10000000|7.0|5|0|Komputer all-in-one dengan spesifikasi tinggi dan hemat tempat.
-32|Speaker Bluetooth|Elektronik|750000|1.2|15|0|Speaker Bluetooth portabel dengan suara jernih.
-33|Jaket Kulit Pria|Pakaian|800000|1.5|20|0|Jaket kulit pria dengan desain stylish dan kualitas premium.
-34|Minyak Goreng 2 Liter|Sembako|30000|2.0|50|0|Minyak goreng dengan kualitas terbaik dan harga terjangkau.
-35|Sofa Minimalis 2 Seater|Furniture|3500000|40.0|10|0|Sofa minimalis 2-seater yang nyaman dan elegan.
-36|Majalah Fashion|Buku|40000|0.3|70|0|Majalah fashion terbaru dengan informasi terkini.
-37|Lip Balm|Kecantikan|20000|0.05|100|0|Lip balm untuk melembapkan bibir dengan formula alami.
-38|Truk Mainan Anak|Mainan|60000|1.0|60|0|Truk mainan anak-anak yang menyenangkan untuk bermain.
-39|Helm Motor SNI|Otomotif|450000|3.0|30|0|Helm motor standar SNI untuk keamanan berkendara.
-40|Matras Yoga|Olahraga|300000|2.0|25|0|Matras yoga dengan permukaan anti-selip untuk kenyamanan.
-41|Laptop Ultrabook|Elektronik|15000000|1.8|8|0|Ultrabook tipis dengan kinerja tinggi dan desain premium.
-42|Setrika Listrik|Elektronik|400000|2.5|15|0|Setrika listrik dengan pengaturan suhu yang mudah.
-43|Kemeja Batik Wanita|Pakaian|300000|0.6|40|0|Kemeja batik wanita dengan desain yang elegan dan tradisional.
-44|Garam Dapur 1 Kg|Sembako|10000|1.0|300|0|Garam dapur murni untuk memasak sehari-hari.
-45|Rak Dinding Kayu|Furniture|200000|5.0|30|0|Rak dinding kayu untuk penyimpanan barang kecil.
-46|Komik Petualangan|Buku|75000|0.4|50|0|Komik petualangan seru dengan cerita menegangkan.
-47|Krim Malam|Kecantikan|80000|0.1|60|0|Krim malam untuk perawatan kulit saat tidur.
-48|Boneka Karakter|Mainan|100000|1.5|35|0|Boneka karakter lucu untuk koleksi atau hadiah.
-49|Aki Motor|Otomotif|600000|10.0|15|0|Aki motor dengan daya tahan lama dan performa optimal.
-50|Barbel 5 Kg|Olahraga|350000|5.0|20|0|Barbel 5 kg untuk latihan kekuatan di rumah.
-51|Jam Tangan Digital|Elektronik|1200000|0.8|25|0|Jam tangan digital dengan fitur lengkap dan desain modern.
-52|Rice Cooker|Elektronik|500000|4.0|20|0|Rice cooker untuk memasak nasi dengan mudah dan cepat.
-53|Rok Plisket Wanita|Pakaian|200000|0.4|50|0|Rok plisket wanita dengan desain modis dan elegan.
-54|Tepung Terigu 1 Kg|Sembako|12000|1.0|200|0|Tepung terigu serbaguna untuk kebutuhan memasak.
-55|Cermin Besar|Furniture|800000|15.0|10|0|Cermin besar dengan desain elegan untuk interior rumah.
-56|Buku Anak Bergambar|Buku|60000|0.5|30|0|Buku anak bergambar yang edukatif dan menghibur.
-57|Foundation Wajah|Kecantikan|100000|0.1|70|0|Foundation wajah untuk tampilan sempurna sepanjang hari.
-58|Mobil Mainan Remote|Mainan|400000|2.5|20|0|Mobil mainan dengan kontrol remote yang menyenangkan.
-59|Kunci Pas Set|Otomotif|250000|4.0|30|0|Set kunci pas lengkap untuk kebutuhan mekanik.
-60|Sepeda Statis|Olahraga|2500000|15.0|5|0|Sepeda statis untuk latihan kardio di rumah.
-61|Printer Multifungsi|Elektronik|1500000|7.5|10|0|Printer multifungsi dengan kemampuan mencetak, memindai, dan menyalin.
-62|Mixer Kue|Elektronik|700000|3.5|15|0|Mixer kue untuk mempermudah pembuatan adonan.
-63|Jas Formal Pria|Pakaian|1200000|1.2|20|0|Jas formal pria dengan desain slim fit untuk acara resmi.
-64|Bawang Merah 1 Kg|Sembako|35000|1.0|150|0|Bawang merah segar untuk kebutuhan dapur.
-65|Meja Belajar Anak|Furniture|450000|10.0|20|0|Meja belajar anak dengan desain yang ergonomis dan menyenangkan.
-66|Komik Superhero|Buku|80000|0.5|40|0|Komik superhero dengan cerita aksi penuh petualangan.
-67|Maskara Waterproof|Kecantikan|90000|0.05|50|0|Maskara tahan air untuk hasil bulu mata tebal dan panjang.
-68|Mainan Rubik|Mainan|40000|0.3|60|0|Mainan rubik klasik untuk mengasah otak dan kesabaran.
-69|Tangki Motor|Otomotif|800000|8.0|15|0|Tangki motor berkualitas untuk penggantian dan upgrade.
-70|Matras Gym|Olahraga|250000|2.5|30|0|Matras gym untuk latihan yang nyaman dan aman.
-71|Kamera DSLR|Elektronik|12000000|1.5|5|0|Kamera DSLR untuk fotografi profesional dengan kualitas tinggi.
-72|Vacuum Cleaner|Elektronik|2000000|6.0|8|0|Vacuum cleaner dengan daya hisap kuat dan efisien.
-73|Kemeja Flanel|Pakaian|250000|0.7|50|0|Kemeja flanel yang nyaman dan stylish untuk aktivitas sehari-hari.
-74|Kentang 1 Kg|Sembako|20000|1.0|100|0|Kentang segar kualitas terbaik untuk kebutuhan dapur.
-75|Lemari Besi 2 Pintu|Furniture|1500000|40.0|8|0|Lemari besi 2 pintu untuk penyimpanan barang yang aman.
-76|Ensiklopedia Dunia|Buku|500000|2.5|20|0|Ensiklopedia dunia dengan informasi lengkap tentang berbagai topik.
-77|Concealer Wajah|Kecantikan|70000|0.05|60|0|Concealer wajah untuk menutupi noda dan bekas jerawat.
-78|Boneka Barbie|Mainan|300000|0.8|30|0|Boneka Barbie dengan berbagai pakaian dan aksesori.
-79|Rantai Motor|Otomotif|150000|3.0|25|0|Rantai motor untuk penggantian dan perawatan kendaraan.
-80|Sarung Tinju|Olahraga|200000|1.0|15|0|Sarung tinju untuk latihan atau pertandingan.
-81|Tablet Android|Elektronik|5000000|0.9|8|0|Tablet Android dengan layar besar dan performa mumpuni.
-82|Dispenser Air|Elektronik|800000|4.0|12|0|Dispenser air dengan desain praktis dan kapasitas besar.
-83|Jaket Hoodie Wanita|Pakaian|300000|0.8|35|0|Jaket hoodie wanita yang nyaman dan cocok untuk cuaca dingin.
-84|Tepung Beras 1 Kg|Sembako|15000|1.0|200|0|Tepung beras untuk kebutuhan masakan atau pembuatan kue.
-85|Sofa Bed|Furniture|3000000|35.0|5|0|Sofa bed yang praktis dan nyaman untuk ruang tamu atau tidur.
-86|Buku Pelajaran|Buku|75000|0.6|40|0|Buku pelajaran untuk berbagai mata pelajaran sekolah.
-87|Pelembap Wajah|Kecantikan|85000|0.1|100|0|Pelembap wajah dengan formula ringan dan menyejukkan kulit.
-88|Mainan Robot|Mainan|450000|1.8|15|0|Mainan robot interaktif dengan fitur canggih.
-89|Velg Motor|Otomotif|1200000|8.0|10|0|Velg motor berkualitas tinggi untuk kendaraan Anda.
-90|Kettlebell 10 Kg|Olahraga|600000|10.0|10|0|Kettlebell 10 kg untuk latihan kekuatan tubuh bagian atas.
-91|TV 42 Inch|Elektronik|4500000|10.0|5|0|TV 42 inch dengan kualitas gambar HD dan suara jernih.
-92|Pemanggang Roti|Elektronik|400000|3.0|15|0|Pemanggang roti untuk membuat roti panggang dengan mudah.
-93|Celana Jogger Pria|Pakaian|200000|0.5|50|0|Celana jogger pria yang nyaman dan cocok untuk aktivitas olahraga.
-94|Daging Sapi 1 Kg|Sembako|120000|1.0|30|0|Daging sapi segar untuk kebutuhan masakan.
-95|Laci Kayu Minimalis|Furniture|800000|12.0|15|0|Laci kayu minimalis dengan desain elegan untuk penyimpanan.
-96|Komik Anak Petualangan|Buku|65000|0.3|50|0|Komik petualangan seru untuk anak-anak.
-97|Highlighter Wajah|Kecantikan|90000|0.05|40|0|Highlighter wajah untuk memberi kesan bercahaya pada kulit.
-98|Mainan Kendaraan|Mainan|75000|1.2|25|0|Mainan kendaraan yang menyenangkan untuk anak-anak.
-99|Busi Motor|Otomotif|45000|0.5|40|0|Busi motor berkualitas untuk performa kendaraan yang lebih baik.
-100|Barbel 10 Kg|Olahraga|900000|10.0|10|0|Barbel 10 kg untuk latihan kekuatan di gym.
+1|Laptop Gaming|Elektronik|20000000|2500|10|0|Laptop dengan performa tinggi untuk gaming dan editing.
+41|Laptop Ultrabook|Elektronik|15000000|1800|8|0|Ultrabook tipis dengan kinerja tinggi dan desain premium.
+61|Kamera DSLR|Elektronik|15000000|4000|5|0|Kamera DSLR untuk fotografi profesional.
+31|Komputer All-in-One|Elektronik|10000000|7000|5|0|Komputer all-in-one dengan spesifikasi tinggi dan hemat tempat.
+24|Lemari Pakaian Kayu|Furniture|5000000|50000|8|0|Lemari pakaian berbahan kayu dengan desain minimalis.
+51|Tablet Android|Elektronik|5000000|1000|10|0|Tablet dengan layar besar dan performa handal untuk bekerja dan hiburan.
+80|Treadmill Lipat|Olahraga|5000000|50000|8|0|Treadmill lipat untuk latihan di rumah.
+10|Smartphone Android|Elektronik|3500000|700|20|0|Ponsel cerdas dengan fitur lengkap dan harga terjangkau.
+35|Sofa Minimalis 2 Seater|Furniture|3500000|40000|10|0|Sofa minimalis 2-seater yang nyaman dan elegan.
+100|Sepeda Lipat|Olahraga|3000000|20000|10|0|Sepeda lipat yang praktis untuk mobilitas harian.
+14|Kursi Gaming|Furniture|2500000|18000|10|0|Kursi ergonomis untuk kenyamanan bermain game.
+18|Ban Mobil Baru|Otomotif|2500000|15000|10|0|Ban mobil berkualitas tinggi untuk keamanan berkendara.
+20|Televisi LED 32 Inch|Elektronik|2500000|6000|15|0|TV LED dengan kualitas gambar tajam dan fitur modern.
+129|Kursi Gaming Ergonomis|Furniture|2500000|20000|5|0|Kursi gaming dengan desain ergonomis untuk kenyamanan maksimal.
+75|Lemari Kaca|Furniture|1500000|30000|10|0|Lemari kaca untuk memajang koleksi atau menyimpan barang.
+91|Smartwatch Fitness Tracker|Elektronik|1500000|300|12|0|Smartwatch dengan fitur pelacak kebugaran dan notifikasi.
+124|Speaker Aktif|Elektronik|1500000|3000|10|0|Speaker aktif dengan kualitas suara jernih.
+88|Drone Mini|Mainan|1200000|500|10|0|Drone mini untuk fotografi udara dan rekreasi.
+101|Kompor Induksi|Elektronik|1200000|5000|20|0|Kompor induksi hemat energi dengan desain modern.
+71|Hard Drive Eksternal 1TB|Elektronik|1000000|500|10|0|Penyimpanan eksternal berkapasitas besar untuk data Anda.
+8|Oli Motor Sintetis|Otomotif|900000|4000|25|0|Oli berkualitas tinggi untuk performa motor maksimal.
+95|Meja TV Minimalis|Furniture|850000|20000|15|0|Meja TV minimalis dengan ruang penyimpanan tambahan.
+114|Vacuum Cleaner Portable|Elektronik|850000|2000|15|0|Vacuum cleaner portabel dengan daya hisap kuat.
+33|Jaket Kulit Pria|Pakaian|800000|1500|20|0|Jaket kulit pria dengan desain stylish dan kualitas premium.
+81|Headphone Bluetooth|Elektronik|800000|800|15|0|Headphone tanpa kabel dengan suara jernih dan baterai tahan lama.
+104|Kamera CCTV|Elektronik|800000|2000|10|0|Kamera pengawas dengan fitur night vision.
+32|Speaker Bluetooth|Elektronik|750000|1200|15|0|Speaker Bluetooth portabel dengan suara jernih.
+55|Kasur Lipat|Furniture|750000|20000|15|0|Kasur lipat yang praktis untuk ruangan kecil.
+92|Dispenser Air Panas Dingin|Elektronik|750000|8000|20|0|Dispenser air dengan fungsi panas dan dingin.
+111|Keyboard Gaming RGB|Elektronik|750000|3000|15|0|Keyboard gaming dengan pencahayaan RGB yang menarik.
+106|Tas Ransel Kulit|Aksesoris|700000|4000|10|0|Tas ransel kulit elegan untuk keperluan sehari-hari.
+9|Sepatu Lari Pria|Olahraga|650000|1500|30|0|Sepatu ringan dan nyaman untuk berlari.
+121|Panci Presto|Perlengkapan Dapur|650000|4000|20|0|Panci presto untuk memasak lebih cepat.
+49|Aki Motor|Otomotif|600000|10000|15|0|Aki motor dengan daya tahan lama dan performa optimal.
+72|Mixer Dapur|Elektronik|600000|7000|20|0|Mixer dapur multifungsi untuk membuat kue dan adonan.
+89|Knalpot Motor|Otomotif|600000|7000|15|0|Knalpot motor racing untuk performa optimal.
+11|Blender Multifungsi|Elektronik|500000|3000|25|0|Blender untuk berbagai kebutuhan dapur.
+58|Mainan Remote Control Car|Mainan|500000|1500|30|0|Mobil remote control untuk bermain di dalam dan luar ruangan.
+103|Sepeda Anak Roda Tiga|Mainan|500000|5000|15|0|Sepeda anak dengan desain aman dan nyaman.
+117|Matras Kasur Angin|Perlengkapan Outdoor|500000|3000|10|0|Kasur angin praktis untuk berkemah.
+127|Mixer Kue|Elektronik|500000|3000|15|0|Mixer kue dengan kecepatan variabel.
+30|Raket Badminton|Olahraga|450000|500|25|0|Raket badminton ringan dan kuat untuk pertandingan.
+39|Helm Motor SNI|Otomotif|450000|3000|30|0|Helm motor standar SNI untuk keamanan berkendara.
+62|Magic Com Rice Cooker|Elektronik|450000|5000|25|0|Magic com multifungsi untuk memasak nasi dan menghangatkan makanan.
+123|Jaket Waterproof Outdoor|Pakaian|450000|3000|20|0|Jaket tahan air untuk aktivitas luar ruangan.
+42|Setrika Listrik|Elektronik|400000|2500|15|0|Setrika listrik dengan pengaturan suhu yang mudah.
+85|Rak Buku Besi|Furniture|400000|15000|15|0|Rak buku dari bahan besi yang kokoh dan tahan lama.
+120|Thermos Elektrik|Elektronik|400000|2000|15|0|Thermos elektrik untuk menjaga suhu minuman.
+50|Barbel 5 Kg|Olahraga|350000|5000|20|0|Barbel 5 kg untuk latihan kekuatan di rumah.
+65|Meja Belajar Anak|Furniture|350000|10000|20|0|Meja belajar anak dengan desain lucu dan fungsional.
+17|Lego Set Anak|Mainan|300000|2000|40|0|Lego kreatif untuk mengasah imajinasi anak.
+21|Kipas Angin Listrik|Elektronik|300000|4500|20|0|Kipas angin dengan daya tahan lama dan pengaturan kecepatan.
+29|Rak Sepatu|Furniture|300000|8000|20|0|Rak sepatu untuk menyimpan sepatu dengan rapi.
+40|Matras Yoga|Olahraga|300000|2000|25|0|Matras yoga dengan permukaan anti-selip untuk kenyamanan.
+43|Kemeja Batik Wanita|Pakaian|300000|600|40|0|Kemeja batik wanita dengan desain yang elegan dan tradisional.
+68|Boneka Barbie|Mainan|300000|1200|25|0|Boneka Barbie dengan aksesori lengkap untuk koleksi.
+82|Rice Cooker Mini|Elektronik|300000|2500|30|0|Rice cooker mini yang praktis untuk porsi kecil.
+108|Kunci Pas Set|Otomotif|300000|2000|20|0|Set kunci pas lengkap untuk keperluan bengkel.
+113|Sprei Katun King Size|Perlengkapan Rumah Tangga|300000|3000|25|0|Sprei katun lembut untuk kenyamanan tidur.
+119|Obeng Elektrik|Elektronik|300000|1000|20|0|Obeng elektrik dengan fitur multifungsi.
+130|Tripod Kamera|Aksesoris|300000|1000|25|0|Tripod kamera dengan tinggi yang dapat diatur.
+19|Bola Basket|Olahraga|250000|1000|35|0|Bola basket standar untuk latihan atau bermain.
+22|Celana Jeans Pria|Pakaian|250000|700|50|0|Celana jeans pria nyaman untuk dipakai sehari-hari.
+83|Kemeja Denim Pria|Pakaian|250000|700|30|0|Kemeja denim pria untuk gaya santai dan kasual.
+96|Ensiklopedia Sains|Buku|250000|1200|30|0|Ensiklopedia lengkap untuk pengetahuan sains.
+102|Meja Belajar Lipat|Furniture|250000|3000|30|0|Meja belajar lipat yang praktis untuk ruang kecil.
+107|Bola Sepak Standar FIFA|Olahraga|250000|1500|40|0|Bola sepak berkualitas tinggi untuk pertandingan resmi.
+122|Dompet Kulit Wanita|Aksesoris|250000|1500|30|0|Dompet kulit wanita dengan desain elegan.
+25|Ensiklopedia Anak|Buku|200000|1200|30|0|Buku ensiklopedia untuk menambah pengetahuan anak-anak.
+45|Rak Dinding Kayu|Furniture|200000|5000|30|0|Rak dinding kayu untuk penyimpanan barang kecil.
+63|Blouse Wanita Modern|Pakaian|200000|400|30|0|Blouse wanita dengan desain modern dan elegan.
+70|Sepatu Bola Anak|Olahraga|200000|800|50|0|Sepatu bola anak dengan desain nyaman dan tahan lama.
+84|Beras Merah Organik|Sembako|200000|1500|50|0|Beras merah organik untuk pola hidup sehat.
+115|Rak Dinding Kayu|Furniture|200000|1000|30|0|Rak dinding kayu untuk dekorasi rumah.
+128|Toples Kaca Set|Perlengkapan Dapur|200000|1000|40|0|Set toples kaca untuk menyimpan makanan.
+118|Jas Hujan Setelan|Pakaian|175000|500|40|0|Jas hujan setelan dengan bahan tahan air.
+2|Baju Kemeja Pria|Pakaian|150000|300|47|3|Kemeja formal yang cocok untuk acara resmi.
+28|Spion Motor|Otomotif|150000|1000|30|0|Spion motor berkualitas dengan desain modern.
+52|Kipas Angin Meja|Elektronik|150000|2500|25|0|Kipas angin meja yang praktis untuk penggunaan di kantor atau rumah.
+90|Sarung Tangan Gym|Olahraga|150000|500|50|0|Sarung tangan gym untuk kenyamanan latihan angkat beban.
+99|Wiper Mobil|Otomotif|150000|1000|30|0|Wiper mobil berkualitas untuk visibilitas yang lebih baik.
+109|Jam Dinding Minimalis|Dekorasi|150000|1000|50|0|Jam dinding dengan desain minimalis untuk interior modern.
+116|Kotak P3K Lengkap|Kesehatan|150000|500|50|0|Kotak P3K dengan perlengkapan medis dasar.
+126|Payung Lipat Otomatis|Perlengkapan Outdoor|150000|500|50|0|Payung lipat otomatis dengan desain kompak.
+3|Beras Premium|Sembako|120000|1000|197|3|Beras dengan kualitas terbaik untuk keluarga Anda.
+27|Puzzle 1000 Keping|Mainan|120000|1800|40|0|Puzzle 1000 keping yang menantang dan menyenangkan.
+53|Rok Wanita Casual|Pakaian|120000|300|40|0|Rok wanita dengan desain casual dan nyaman dipakai.
+57|Foundation Makeup|Kecantikan|120000|100|100|0|Foundation dengan hasil akhir natural dan tahan lama.
+69|Klakson Mobil|Otomotif|120000|1000|35|0|Klakson mobil dengan suara nyaring dan tahan lama.
+105|Botol Minum Stainless|Perlengkapan Rumah Tangga|120000|1000|50|0|Botol minum stainless tahan panas dan dingin.
+48|Boneka Karakter|Mainan|100000|1500|35|0|Boneka karakter lucu untuk koleksi atau hadiah.
+60|Alat Fitness Resistance Band|Olahraga|100000|300|60|0|Resistance band untuk latihan kebugaran di rumah.
+73|Celana Pendek Pria|Pakaian|100000|400|50|0|Celana pendek pria yang nyaman untuk aktivitas santai.
+93|Kaos Motif Pria|Pakaian|100000|400|60|0|Kaos pria dengan motif menarik dan bahan nyaman.
+98|Mainan Anak Edukasi|Mainan|100000|800|50|0|Mainan edukasi untuk mendukung tumbuh kembang anak.
+125|Lampu Hias LED|Dekorasi|100000|500|70|0|Lampu hias LED hemat energi untuk ruangan.
+54|Susu Bubuk 1 Kg|Sembako|95000|1200|80|0|Susu bubuk berkualitas tinggi untuk nutrisi harian.
+79|Cover Jok Motor|Otomotif|90000|800|50|0|Cover jok motor anti air dengan desain menarik.
+5|Buku Novel Fiksi|Buku|85000|500|40|0|Novel dengan cerita menarik untuk waktu luang.
+56|Buku Self-Help|Buku|85000|500|50|0|Buku panduan untuk pengembangan diri.
+47|Krim Malam|Kecantikan|80000|100|60|0|Krim malam untuk perawatan kulit saat tidur.
+59|Lampu LED Motor|Otomotif|80000|500|40|0|Lampu LED motor hemat energi dengan pencahayaan maksimal.
+7|Boneka Teddy Bear|Mainan|75000|1200|60|0|Boneka beruang lucu untuk hadiah spesial.
+46|Komik Petualangan|Buku|75000|400|50|0|Komik petualangan seru dengan cerita menegangkan.
+78|Mainan Puzzle Anak|Mainan|75000|500|60|0|Mainan puzzle untuk melatih kreativitas anak.
+110|Lilin Aromaterapi|Dekorasi|75000|500|60|0|Lilin aromaterapi untuk relaksasi dan suasana nyaman.
+131|Sarung|Pakaian|75000|700|3|0|Sarung dengan kualitas tinggi yang dapat membuat dirimu nyaman saat memakainya.
+26|Serum Wajah|Kecantikan|70000|100|100|0|Serum wajah untuk perawatan kulit yang lebih cerah.
+67|Maskara Waterproof|Kecantikan|70000|50|80|0|Maskara tahan air untuk tampilan bulu mata maksimal.
+97|Pelembab Wajah|Kecantikan|70000|50|120|0|Pelembab wajah untuk kulit sehat dan lembap.
+12|Kaos Polos Wanita|Pakaian|60000|200|80|0|Kaos polos sederhana untuk aktivitas sehari-hari.
+38|Truk Mainan Anak|Mainan|60000|1000|60|0|Truk mainan anak-anak yang menyenangkan untuk bermain.
+64|Mi Instan 1 Dus|Sembako|60000|5000|100|0|Mi instan praktis dengan berbagai pilihan rasa.
+76|Komik Superhero|Buku|60000|400|40|0|Komik superhero dengan cerita penuh aksi.
+87|Eyeliner Gel|Kecantikan|60000|100|100|0|Eyeliner gel untuk hasil riasan mata yang dramatis.
+6|Lipstik Matte|Kecantikan|50000|100|100|0|Lipstik dengan hasil matte dan tahan lama.
+15|Komik Jepang|Buku|50000|400|50|0|Komik seru dengan cerita menarik dari Jepang.
+66|Buku Anak Bergambar|Buku|50000|300|60|0|Buku anak penuh gambar untuk belajar sambil bermain.
+77|Lip Gloss|Kecantikan|50000|50|100|0|Lip gloss untuk bibir berkilau dan lembap.
+86|Buku Harian|Buku|50000|300|70|0|Buku harian untuk mencatat kegiatan dan ide-ide harian.
+112|Topi Baseball Polos|Aksesoris|50000|1000|100|0|Topi baseball polos dengan bahan berkualitas.
+36|Majalah Fashion|Buku|40000|300|70|0|Majalah fashion terbaru dengan informasi terkini.
+34|Minyak Goreng 2 Liter|Sembako|30000|2000|50|0|Minyak goreng dengan kualitas terbaik dan harga terjangkau.
+16|Masker Wajah|Kecantikan|25000|50|120|0|Masker wajah untuk perawatan kulit sehari-hari.
+23|Telur Ayam 1 Kg|Sembako|25000|1200|100|0|Telur ayam segar kualitas terbaik.
+74|Minyak Kayu Putih|Sembako|25000|200|80|0|Minyak kayu putih untuk menghangatkan tubuh.
+37|Lip Balm|Kecantikan|20000|50|100|0|Lip balm untuk melembapkan bibir dengan formula alami.
+13|Gula Pasir|Sembako|15000|1000|300|0|Gula pasir murni untuk kebutuhan dapur.
+94|Tepung Terigu 1 Kg|Sembako|15000|1000|100|0|Tepung terigu berkualitas untuk kebutuhan dapur.
+4|Meja Kerja Minimalis|Furniture|12000|25000000|15|0|Meja kerja modern dengan desain minimalis.
+44|Garam Dapur 1 Kg|Sembako|10000|1000|5|0|Garam dapur murni untuk memasak sehari-hari.
