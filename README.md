@@ -107,14 +107,10 @@ Contoh:
    git push origin feature-name
    ```
 5. Buat pull request.
-
-## Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
 ---
 
 ## Kontak
 Jika ada pertanyaan, hubungi:
 - **Nama**: Ihsan
-- **Email**: ihsanlearn@gmail.com
+- **Email**: iihsannlearn@gmail.com
 
