@@ -22,6 +22,10 @@ E-Commerce Management System adalah aplikasi berbasis CLI (Command Line Interfac
 
 5. **Sistem Penjual (Seller)**
    - Penjual dapat memproses pengembalian barang dan menyetujui pengembalian dana.
+  
+## Kekurangan
+1. **UI**
+   - Belum diberikan user interface yang memadai, sehingga ux tidak dapat maksimal.
 
 ## Struktur File
 ```
@@ -54,7 +58,7 @@ project-directory/
    ```
 3. Kompilasi program:
    ```bash
-   gcc -o ecommerce src/*.c
+   gcc -o ecommerce *.c
    ```
 4. Jalankan aplikasi:
    ```bash
@@ -82,7 +86,7 @@ ihsan|1|1|1|20000000|Laptop Gaming|Laptop dengan performa tinggi untuk gaming da
 
 ### transactions.txt
 ```
-Transaction ID|User ID|Waktu|Status|Estimasi Pengiriman|Jasa Pengiriman
+Transaction ID|User ID|Waktu|Status|Estimasi Sampai|Jasa Pengiriman
 ```
 Contoh:
 ```
