@@ -32,12 +32,9 @@ project-directory/
 │   ├── products.txt
 │   ├── transactions.txt
 │   └── users.txt
-├── src/
-│   ├── main.c
-│   ├── checkout.c
-│   ├── return.c
-│   ├── transaction.c
-│   └── utils.c
+├── main.c
+├── ui.c
+├── seller.c
 └── README.md
 ```
 
